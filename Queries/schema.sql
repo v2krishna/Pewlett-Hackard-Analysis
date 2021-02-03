@@ -51,6 +51,6 @@ CREATE TABLE dept_emp (
   title varchar NOT Null,
   from_date DATE NOT NULL,
   to_date DATE NOT NULL,
-  FOREIGN KEY (emp_no) REFERENCES employees (emp_no),
+  FOREIGN KEY (emp_no) REFERENCES employees (emp_no)
  		
  );
