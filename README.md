@@ -37,6 +37,6 @@ In order to find the employees who are eligible for mentoring the new hires.
 1. Based on the observation, Senior Engineer and Senior Staff will be retiring more. So we need to make sure there are enough Senior Engineer and Senior Staff mentors should be available for mentoring the new hires.
 1. There are total number of employees eligible for mentorship -- 1940 <br/>
 1. Based on the Mentorship Eligible Data analysis, the number of new hires to mentors is 46 : 1, but there are no mentors in Manager position. 
-1. Based on the current changes in the technologies, we can automate the routine tasks and re-evaluate which jobs needs to be filled with new hires.
+1. Based on the current changes in the technologies, we can automate the routine tasks and re-evaluate which jobs needs to be filled with new hires. <br/>
 ![MentorsEligibleByTitles](/MentorsEligibleByTitles.png) <br/>
 
