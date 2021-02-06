@@ -42,5 +42,5 @@ In order to find the employees who are eligible for mentoring the new hires.
 
 
 ## Tools:
-PostgresSQL SQL
+PostgresSQL, SQL
 
