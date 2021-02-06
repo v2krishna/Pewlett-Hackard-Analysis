@@ -29,7 +29,7 @@ In order to find the employees who are eligible for mentoring the new hires.
 1. Join to the Dept_emp who are currently working in each dept
 1. Get the Latest title for each employee
 1. Final make sure you get he unique employee list with current title and load the data into mentorship_eligibilty
-1. 
+![mentorship_eligibilty](/mentorship_eligibilty.png)
 
 ## Summary:
 1. Total number of employees that are eligible for retirement -- 90,398
