@@ -8,7 +8,8 @@ also get list of employees who are eligible for mentoring the new hires based on
 Below Entity Relationship Diagram gives the HR related tables which are needed for our findings.
 ![EmployeeDB.png](/EmployeeDB.png.png)
 
-## Number of Employees Retiring Per Title
+## Results: 
+###  Number of Employees Retiring Per Title
 In order to the find the Unique number of employees retiring per Job Title, followed the below steps:
 
 1. Retrieve the list of employees born between 1952 and 1955
@@ -22,4 +23,21 @@ In order to the find the Unique number of employees retiring per Job Title, foll
   ![retiring_titles](/retiring_titles.png) <br/>
 1. Export the data into the retiring_titles.csv
 
+### Mentorship Eligibility:
+In order to find the employees who are eligible for mentoring the new hires.
+1. Retrieve the list of employees who are born in 1965 
+1. Join to the Dept_emp who are currently working in each dept
+1. Get the Latest title for each employee
+1. Final make sure you get he unique employee list with current title and load the data into mentorship_eligibilty
+1.  <pic>
+
+## Summary:
+1. Total number of employees that are eligible for retirement -- 90,398
+1. Total number of new hires will be around same as the number of employees getting retired -- 90,398
+1. 
+
+## Observerations / Recommendations :
+1. Senior Engineer and Senior Staff postions will be more and replaced with new hires, so based on this we might need more mentors for these Senior Engineer and Senior Staff positions.
   
+
+
