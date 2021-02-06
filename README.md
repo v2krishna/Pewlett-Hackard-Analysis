@@ -34,10 +34,10 @@ In order to find the employees who are eligible for mentoring the new hires.
 ## Summary:
 1. Total number of employees that are eligible for retirement -- 90,398
 1. Total number of new hires will be around same as the number of employees getting retired -- 90,398
-1. 
+1. There are total number of employees eligible for mentorship -- 1940
+![MentorsEligibleByTitles](/MentorsEligibleByTitles.png)
 
 ## Observerations / Recommendations :
 1. Senior Engineer and Senior Staff postions will be more and replaced with new hires, so based on this we might need more mentors for these Senior Engineer and Senior Staff positions.
-  
-
+1.Based on the Mentorship Eligible Data analysis, the number of new hires to mentors is 46 : 1, but there are no mentors in Manager position.
 
