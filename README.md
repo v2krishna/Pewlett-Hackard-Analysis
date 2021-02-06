@@ -16,8 +16,8 @@ In order to the find the Unique number of employees retiring per Job Title, foll
 1. Create a table "retirement_titles" <br/>
   ![retirement_titles](/retirement_titles.png) <br/>
 1. Using the DISTINCT ON (emp_no) get the latest Job Title of each employee.
-1. Create a temp table called "unique_titles"
+1. Create a temp table called "unique_titles" <br/>
   ![unique_titles](/unique_titles.png) <br/>
 1. Final Step Retrieve the number of employees per Title <br/>
-  ![retiring_titles](/retiring_titles.png)
+  ![retiring_titles](/retiring_titles.png) <br/>
   
