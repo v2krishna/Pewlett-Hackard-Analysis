@@ -40,3 +40,7 @@ In order to find the employees who are eligible for mentoring the new hires.
 1. Based on the current changes in the technologies, we can automate the routine tasks and re-evaluate which jobs needs to be filled with new hires. <br/>
 ![MentorsEligibleByTitles](/MentorsEligibleByTitles.png) <br/>
 
+
+## Tools:
+PostgresSQL SQL
+
