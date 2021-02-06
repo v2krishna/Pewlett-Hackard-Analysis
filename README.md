@@ -39,5 +39,5 @@ In order to find the employees who are eligible for mentoring the new hires.
 
 ## Observerations / Recommendations :
 1. Senior Engineer and Senior Staff postions will be more and replaced with new hires, so based on this we might need more mentors for these Senior Engineer and Senior Staff positions.
-1.Based on the Mentorship Eligible Data analysis, the number of new hires to mentors is 46 : 1, but there are no mentors in Manager position.
+1. Based on the Mentorship Eligible Data analysis, the number of new hires to mentors is 46 : 1, but there are no mentors in Manager position.
 
