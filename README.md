@@ -13,10 +13,11 @@ In order to the find the Unique number of employees retiring per Job Title, foll
 
 1. Retrieve the list of employees born between 1952 and 1955
 1. Join the table with  Titles to get the Job Title of each employee and add the from_date, to_date of each title.
-1. Create a table "retirement_titles"
-  pic
+1. Create a table "retirement_titles" <br/>
+  ![retirement_titles](/retirement_titles.png) <br/>
 1. Using the DISTINCT ON (emp_no) get the latest Job Title of each employee.
 1. Create a temp table called "unique_titles"
-  <pic>
-1. Final Step Retrieve the number of employees per Title.
-    <pic>
+  ![unique_titles](/unique_titles.png) <br/>
+1. Final Step Retrieve the number of employees per Title <br/>
+  ![retiring_titles](/retiring_titles.png)
+  
